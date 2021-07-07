@@ -1,5 +1,5 @@
 Hi there 👋
-          I am Lavanya Selvam.My main interest lies in Machine Learning and Python.Also I have a basic knowledge on Python.I am alwayscurious to learn something new.
+          I am Lavanya Selvam. My main interest lies in Machine Learning and Python. Also I have a basic knowledge on Python. I am always curious to learn something new.
 
 Hobbies-Learning new things, Reading Books.
 - 👋 Hi, I’m @Lavanya-selvam
